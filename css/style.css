@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     color: #1b1a1a;
+    font-weight: 100;
 }
 
 body {
@@ -32,4 +33,25 @@ footer {
     border-radius: 50%;
     height: 60px;
     width: 60px;
+}
+
+.icon {
+    height: 70px;
+    width: auto;
+}
+
+.nav-box {
+    background-color: pink;
+}
+
+.svt {
+    margin-top: 30px;
+}
+
+.buttons a {
+    text-decoration: none;
+    color: #ee629d;
+    background-color: #fff;
+    padding: 3px 20px;
+    border-radius: 20px;
 }
